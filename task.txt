@@ -1,0 +1,9 @@
+In the csv file there is a list of apps.
+In each category, find the highest, lowest rating apps and find the average rating.
+
+austen text, 
+clean up by removing chapter nums title etc.
+read all words in lower case
+remove all punctuation except fullstop
+program must be able to give eg next 10 (or however many specified words) after the word prompted
+then go on the predict what words wiil be next? 
